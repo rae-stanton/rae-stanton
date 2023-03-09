@@ -1,4 +1,14 @@
-### Hi there 👋
+### *Hi there* 👋 I'm Rae (she/her).
+
+---
+🌿 Currently, I am working with: 🌿
+<br>
+<br>
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)<br> 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)<br>
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
 
 <!--
 **rae-stanton/rae-stanton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
