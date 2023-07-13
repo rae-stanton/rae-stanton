@@ -8,6 +8,7 @@ I am a *full-stack* engineering student at `Flatiron School`.
 <br>
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)<br> 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)<br>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 🌿 ***I've been using these things, too:*** 🌿
 <br>
@@ -20,6 +21,8 @@ I am a *full-stack* engineering student at `Flatiron School`.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)<br>
 
 ---
+
+When I'm not hacking away, I love cooking and playing hours of video games with my partner. I also love hanging out with my two cats, who I will absolutely post photos of in Slack whenever possible.
 
 <!--
 **rae-stanton/rae-stanton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
