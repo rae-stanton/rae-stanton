@@ -25,7 +25,7 @@ I am a *full-stack* engineering student at `Flatiron School`.
 ***About Me*** 👩‍💻
 <br>
 <br>
-When I'm not hacking away, I love cooking and playing hours of video games with my partner. I also love hanging out with my two cats, who I will absolutely post photos of in Slack whenever possible. I switched careers from cosmetology into the world of software development. I live in the beautiful PNW 🌲 and love to explore new places as often as possible. 
+When I'm not hacking away, I love cooking and playing hours of video games with my husband. I also love hanging out with my two cats, who I will absolutely post photos of in Slack whenever possible. I switched careers from cosmetology into the world of software development. I live in the beautiful PNW 🌲 and love to explore new places as often as possible. 
 
 <!--
 **rae-stanton/rae-stanton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
