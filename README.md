@@ -14,6 +14,7 @@ I am a *full-stack* engineering student at `Flatiron School`.
 <br>
 <br>
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) <br>
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 🌿 ***I've been learning a lot about:*** 🌿
 <br>
