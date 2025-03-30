@@ -13,7 +13,7 @@
 ***About Me*** 👩‍💻
 <br>
 <br>
-Rubyist, Shopify partner, and front-end fan. When I'm not hacking away, I love cooking and playing hours of video games with my husband. I also love hanging out with my two cats, who I will absolutely post photos of in Slack whenever possible. I switched careers from music to cosmetology, then into the world of software development. I live in the beautiful PNW 🌲 and love to explore new places as often as possible. 
+Rubyist, Shopify partner, and front-end fan. When I'm not hacking away, I love cooking and playing hours of video games or reading. I also love hanging out with my two cats, who I will absolutely post photos of in Slack whenever possible. I switched careers from music to cosmetology, then into the world of software development. I live in the beautiful PNW 🌲 and love to explore new places as often as possible. I am currently working on CoChair Pro, a booking software and inventory management system for independent beauty professionals.
 
 <!--
 **rae-stanton/rae-stanton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
